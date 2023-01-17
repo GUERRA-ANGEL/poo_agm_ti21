@@ -1,2 +1,5 @@
-# poo_agm_TI21
-Repositorio para almacenar las prácticas de la materia de la programación orientada a objetos
+#Curso de Programación orientada a objetos
+##Índice
+|No1.|Archivo|Descripción|
+|--|--|--|
+|1.|programa0.py|Hola mundo en pyton|

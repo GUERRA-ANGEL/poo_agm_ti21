@@ -1,3 +1,9 @@
+"""
+   programa6
+   Nombre:Angel Guerra Muñoz
+   Fecha:/01/2023
+   Descripcion:Crear una aplicación que permita calcular el área y perímetro de cualquier triangulo
+""" 
 lado1 = (input("lado1: "))
 lado2 = (input("lado2: "))
 lado3 = (input("lado3: "))

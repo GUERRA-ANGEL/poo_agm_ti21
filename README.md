@@ -12,3 +12,4 @@
 |8.|programa7.py|Calcular el area y perimetro de circulo y cuadrado|
 |9.|programa8.py|Realizar un programa que compare 2 numeros|
 |10.|programa9.py|Crear calculadora|
+|11.|programa10.py|Realizar calculadora de IMC|

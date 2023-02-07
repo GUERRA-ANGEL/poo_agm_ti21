@@ -2,7 +2,7 @@
 programa13.py
 Nombre:Angel Guerra Muñoz
 Fecha:07/02/2023
-Descripcion:
+Descripcion:Crear programa de 2 numeros
 """
 
 n1 = int(input("Numero1"))

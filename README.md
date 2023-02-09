@@ -17,3 +17,4 @@
 |13.|programa12.py|Realiza sumas|
 |14.|programa13.py|Crear programa de 2 numeros|
 |15.|programa14.py|Realiza división|
+|16.|programa15.py|Realiza el calculo de minutos,a segundos,horas,velocidad.|

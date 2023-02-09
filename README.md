@@ -18,3 +18,6 @@
 |14.|programa13.py|Crear programa de 2 numeros|
 |15.|programa14.py|Realiza división|
 |16.|programa15.py|Realiza el calculo de minutos,a segundos,horas,velocidad.|
+|17.|programa16.py||
+|18.|programa17.py|Forma 12|
+|19.|programa18.py|Forma 13|

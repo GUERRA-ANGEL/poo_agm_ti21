@@ -21,3 +21,5 @@
 |17.|programa16.py||
 |18.|programa17.py|Forma 12|
 |19.|programa18.py|Forma 13|
+|20.|programa19.py|Bingo|
+

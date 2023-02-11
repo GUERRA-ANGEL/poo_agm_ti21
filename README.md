@@ -22,4 +22,4 @@
 |18.|programa17.py|Forma 12|
 |19.|programa18.py|Forma 13|
 |20.|programa19.py|Bingo|
-
+|21.|programa20.py|Determina la edad child,teen,adult.|

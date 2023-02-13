@@ -24,3 +24,4 @@
 |20.|programa19.py|Bingo|
 |21.|programa20.py|Determina la edad child,teen,adult.|
 |22.|programa21.py|Calcular el area y perimetro del rombo|
+|23.|programa22.py|Realiza la palabra HOLA FELIZ CUMPLEAÑOS|

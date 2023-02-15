@@ -26,3 +26,4 @@
 |22.|programa21.py|Calcular el area y perimetro del rombo|
 |23.|programa22.py|Realiza la palabra HOLA FELIZ CUMPLEAÑOS|
 |24.|programa23.py|Realiza la accion que al ingresar 1 imprime true y cuando se ingresa 0 imprime false|
+|25.|programa24.py|Realiza restas|

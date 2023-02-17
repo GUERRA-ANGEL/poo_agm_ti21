@@ -28,3 +28,5 @@
 |24.|programa23.py|Realiza la accion que al ingresar 1 imprime true y cuando se ingresa 0 imprime false|
 |25.|programa24.py|Realiza restas|
 |26.|programa25.py|Realiza suma(otra forma)|
+|27.|programa26.py|Realiza el juego Piedra papel o tijeras|
+

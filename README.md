@@ -29,4 +29,4 @@
 |25.|programa24.py|Realiza restas|
 |26.|programa25.py|Realiza suma(otra forma)|
 |27.|programa26.py|Realiza el juego Piedra papel o tijeras|
-
+|28.|programa27.py|Imprime Los dinosaurios se existieron hace mas de 100 millones de años|

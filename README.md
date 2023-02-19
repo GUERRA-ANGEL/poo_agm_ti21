@@ -31,4 +31,5 @@
 |27.|programa26.py|Realiza el juego Piedra papel o tijeras|
 |28.|programa27.py|Imprime Los dinosaurios se existieron hace mas de 100 millones de años|
 |29.|programa28.py|Imprime Hola a todos|
+|30.|programa29.py|Adivina el numero|
 

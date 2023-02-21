@@ -85,4 +85,19 @@ def mayor(n1,n2):  #funcion que devuelve el mayor de los 2 numeros
 mayor(n1,n2) #llama a la funcion mayor con numero1 y numero2
 
 #Forma 10
+if n2>=n1:              #si n2 es mayor o igual a n1
+    if n2==n1:          #si n2 es exaxtamente igual a n1
+        print(None)     #imprime None
+    else:               #si no lo es
+        print(n2)       #imprime n2
+else:                   #sino
+    print(n1)           #imprime n1
+    
 #Forma 11
+if  n2 == n1 :
+    print(None)
+if n2 > n1:
+    print(n2)
+else:
+    print(n1)
+    

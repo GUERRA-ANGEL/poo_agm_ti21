@@ -1,5 +1,5 @@
 """
-    programa18.py
+    programa12.py
     nombre: Angel G.M.
     fecha: 09/02/2023
     descripcion: Bingo

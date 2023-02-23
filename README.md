@@ -34,3 +34,4 @@
 |30.|programa29.py|Adivina el numero|
 |31.|programa30.py|Realiza calificación aprobatoria|
 |32.|programa31.py|Crea nombre,peso,longitud de un dinosaurio|
+|33.|programa32.py|Calcula el cuadrado y cubo de un numero|

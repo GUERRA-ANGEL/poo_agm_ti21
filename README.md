@@ -35,3 +35,4 @@
 |31.|programa30.py|Realiza calificación aprobatoria|
 |32.|programa31.py|Crea nombre,peso,longitud de un dinosaurio|
 |33.|programa32.py|Calcula el cuadrado y cubo de un numero|
+|34.|programa33.py|Calcula el are y volumen de un hexaedro|

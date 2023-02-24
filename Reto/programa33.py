@@ -20,5 +20,3 @@ volumen = lado1**3
 print("El area del hexaedro es: ",area)
 print("El volumen del hexaedro es: ",volumen)
 
-
-

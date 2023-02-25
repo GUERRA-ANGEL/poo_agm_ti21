@@ -36,3 +36,4 @@
 |32.|programa31.py|Crea nombre,peso,longitud de un dinosaurio|
 |33.|programa32.py|Calcula el cuadrado y cubo de un numero|
 |34.|programa33.py|Calcula el are y volumen de un hexaedro|
+|35.|programa34.py|Calcula la temperatura con los sonidos de un grillo|

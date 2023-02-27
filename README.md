@@ -38,3 +38,4 @@
 |34.|programa33.py|Calcula el are y volumen de un hexaedro|
 |35.|programa34.py|Calcula la temperatura con los sonidos de un grillo|
 |36.|programa35.py|Coloca los numeros colocados en forma descentente|
+|37.|programa36.py|Convierte los galones de gasolina en pesos para cobrar a cliente|

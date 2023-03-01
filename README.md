@@ -40,3 +40,4 @@
 |36.|programa35.py|Coloca los numeros colocados en forma descentente|
 |37.|programa36.py|Convierte los galones de gasolina en pesos para cobrar a cliente|
 |38.|programa37.py|imprime HELLO WORLD IN PYTHON|
+|39.|programa38.py|Identifica si la palabra es palindroma|

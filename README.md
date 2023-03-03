@@ -42,3 +42,4 @@
 |38.|programa37.py|imprime HELLO WORLD IN PYTHON|
 |39.|programa38.py|Identifica si la palabra es palindroma|
 |40.|programa39.py|imprime hola|
+|41.|programa40.py|Junta los valores en uno solo|
